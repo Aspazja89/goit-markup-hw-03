@@ -113,7 +113,7 @@ nav > a:hover {
   text-transform: capitalize;
 }
 .third-section {
-  background-color: #f4f4fd;
+  background-color: #ffffff;
   padding-bottom: 120px;
 }
 
@@ -336,6 +336,7 @@ img {
 .third-section-list {
   display: flex;
   gap: 24px;
+  background-color: #ffffff;
 }
 .tsli {
   width: calc((100%-48px) / 3);
